@@ -16,8 +16,8 @@ class AtolOnlineApi
     public const TOKEN_CACHE_KEY = 'crm_fiscal_atol_online_token';
     public const TOKEN_CACHE_TIME = 86400;
 
-    private $baseApiUrl = 'https://online.atol.ru/possystem';
-    private $testApiUrl = 'https://testonline.atol.ru/possystem';
+    public $baseApiUrl = 'https://online.atol.ru/possystem';
+    public $testApiUrl = 'https://testonline.atol.ru/possystem';
 
     /**
      * @var LoggerInterface|null
