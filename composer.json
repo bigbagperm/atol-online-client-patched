@@ -1,5 +1,5 @@
 {
-    "name": "retailcrm/atol-online-client",
+    "name": "retailcrm/atol-online-client-patched",
     "type": "library",
     "license": "proprietary",
     "description": "PHP API client for ATOL Online",
